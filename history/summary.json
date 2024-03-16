@@ -4,19 +4,19 @@
     "url": "https://www.spencerlepine.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.spencerlepine.com.ico",
     "slug": "spencer-lepine-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 303,
-    "timeWeek": 689,
-    "timeMonth": 380,
-    "timeYear": 378,
+    "timeDay": 287,
+    "timeWeek": 636,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 13
     }
   }
 ]
