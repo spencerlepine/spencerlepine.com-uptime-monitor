@@ -6,17 +6,15 @@
     "slug": "spencer-lepine-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
-    "timeDay": 228,
-    "timeWeek": 578,
+    "timeDay": 194,
+    "timeWeek": 579,
     "timeMonth": 368,
-    "timeYear": 377,
-    "dailyMinutesDown": {
-      "2024-03-16": 10
-    }
+    "timeYear": 376,
+    "dailyMinutesDown": {}
   }
 ]
