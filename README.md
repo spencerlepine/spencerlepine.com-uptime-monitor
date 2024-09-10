@@ -1,4 +1,16 @@
-# [📈 Live Status](https://spencerlepine.github.io/portfolio-site-uptime): <!--live status--> **🟩 All systems operational**
+## ⚠️ [Deprecated] Replaced by [spencerlepine/status.spencerlepine.com](https://github.com/spencerlepine/status.spencerlepine.com)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+# SpencerLepine.com Uptime monitor
+
+📈 Uptime monitor and status page for spencerlepine.com (developer portfolio site), powered by @upptime
+
+### [📈 Live Status](https://spencerlepine.github.io/portfolio-site-uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Spencer Lepine](spencerlepine.com), powered by [Upptime](https://github.com/upptime/upptime).
 
